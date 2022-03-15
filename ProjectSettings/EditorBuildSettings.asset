@@ -9,9 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/MenuScene.unity
     guid: b56ea0e04aa489649823c1c54afcc437
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Pause Menu scene.unity
+    guid: 211d1bc2b03268f4bb875b7f3ed0d240
   - enabled: 1
     path: Assets/Scenes/Death.unity
     guid: af116dff8baa57048a054e2a529be4cb
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}

@@ -22,7 +22,7 @@ public class Death : MonoBehaviour
         }
 
         ScoreSystem.Score = 0;
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
     public void MainMenu()
